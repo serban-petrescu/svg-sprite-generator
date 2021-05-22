@@ -1,0 +1,13 @@
+<svg id="Group_16481" data-name="Group 16481" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_16475" data-name="Group 16475">
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="24" height="24" fill="none"/>
+  </g>
+  <g id="Group_16477" data-name="Group 16477">
+    <g id="Group_16476" data-name="Group 16476">
+      <path id="Path_2368" data-name="Path 2368" d="M5,17H19V12H5Zm11.5-4A1.5,1.5,0,1,1,15,14.5,1.5,1.5,0,0,1,16.5,13Zm-9,0A1.5,1.5,0,1,1,6,14.5,1.5,1.5,0,0,1,7.5,13Z" fill="#56a3bc" opacity="0.23" style="isolation: isolate"/>
+      <path id="Path_2369" data-name="Path 2369" d="M18.92,6.01A1.494,1.494,0,0,0,17.5,5H6.5A1.5,1.5,0,0,0,5.08,6.01L3,12v8a1,1,0,0,0,1,1H5a1,1,0,0,0,1-1V19H18v1a1,1,0,0,0,1,1h1a1,1,0,0,0,1-1V12ZM6.85,7H17.14l1.04,3H5.81ZM19,17H5V12H19Z" fill="#ababab"/>
+      <circle id="Ellipse_70" data-name="Ellipse 70" cx="1.5" cy="1.5" r="1.5" transform="translate(6 13)" fill="#ababab"/>
+      <circle id="Ellipse_71" data-name="Ellipse 71" cx="1.5" cy="1.5" r="1.5" transform="translate(15 13)" fill="#ababab"/>
+    </g>
+  </g>
+</svg>
