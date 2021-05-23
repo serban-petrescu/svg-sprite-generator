@@ -1,6 +1,8 @@
-import { readFile, readdir, writeFile } from "fs/promises";
+import { promises } from "fs";
 import { join } from "path";
 import { optimize, extendDefaultPlugins } from "svgo";
+
+const { readFile, readdir, writeFile } = promises;
 
 const COLORS: { [x: string]: string } = {
   "#ababab": "fg",
